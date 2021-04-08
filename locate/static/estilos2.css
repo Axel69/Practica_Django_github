@@ -1,0 +1,19 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(255, 153, 0);
+}
+
+#tar{
+    /*background-color:black;*/
+    width: 720px;
+    height: 600px;
+    position: relative;
+    bottom: auto;
+    right: -50px;
+    text-align: center;
+}
